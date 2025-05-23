@@ -57,7 +57,7 @@ education:
   - area: PhD Aerospace Engineering
     institution: University of Michigan
     date_start: 2016-06-01
-    date_end: 2021-4-30
+    date_end: 2021-04-30
     # summary: |
       # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
