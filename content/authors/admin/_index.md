@@ -20,11 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Electrical and Computer Engineering Department, Brigham Young University
+  - name: |
+      Electrical and Computer Engineering Department
+      Brigham Young University
     url: https://ece.byu.edu/
 
 # Social network links
@@ -61,8 +63,8 @@ education:
     # summary: |
       # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read PhD Dissertation'
+      url: 'https://deepblue.lib.umich.edu/handle/2027.42/168102'
   - area: MS Aerospace Engineering
     institution: University of Michigan
     date_start: 2016-06-01
