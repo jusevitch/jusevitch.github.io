@@ -24,9 +24,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: |
-      Electrical and Computer Engineering Department
-      Brigham Young University
+  - name: ECEN Department, Brigham Young University
     url: https://ece.byu.edu/
 
 # Social network links
