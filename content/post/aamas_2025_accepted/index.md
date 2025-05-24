@@ -1,12 +1,12 @@
 ---
-title: Paper Accepted to ACC 2025
-summary: Our paper [_Safety for Time-Varying Parameterized Sets Using Control Barrier Function Methods_](https://arxiv.org/abs/2503.12003) was accepted to the 2025 American Control Conference in Denver, CO.
-date: 2025-01-16
+title: Paper Accepted to AAMAS 2025
+summary: Our paper _MAGNET - A Multi-Agent Graph Neural Network for Efficient Bipartite Task Assignment_ was accepted to the 24th International Conference on Autonomous Agents and Multiagent Systems in Detroit, MI.
+date: 2024-12-14
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [2025 ACC Website](https://acc2025.a2c2.org/)'
+  caption: 'Image credit: [2025 AAMAS Website](https://aamas2025.org/)'
 
 authors:
   - admin
