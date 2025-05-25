@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: teal
+  mode: dark
+  color: blue
   # theme_default: light
 
 # SEO
@@ -34,7 +34,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: "James Usevitch"
 
