@@ -191,4 +191,4 @@ work:
 
 ## About Me
 
-I joined the BYU Electrical and Computer Engineering department as an Assistant Professor in 2023. My work focuses on developing safe, intelligent, robust, and resilient multi-agent robotic and autonomous systems. Areas of particular interest include designing algorithms that allow for teams of autonomous robots or agents to safely operate despite the presence of faults or adversarial attacks, and uniting classical and machine learning algorithms through differentiable programming and scientific machine learning.
+I joined the BYU Electrical and Computer Engineering department as an Assistant Professor in 2023. I am associated with the [BYU MAGICC Lab](https://magicc.byu.edu/directory/faculty). My work focuses on developing safe, intelligent, robust, and resilient multi-agent robotic and autonomous systems. Areas of particular interest include designing algorithms that allow for teams of autonomous robots or agents to safely operate despite the presence of faults or adversarial attacks, and uniting classical and machine learning algorithms through differentiable programming and scientific machine learning.
