@@ -30,16 +30,33 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: collection
+    content:
+      title: Research
+      # text: Selected research efforts
+      filters:
+        folders:
+          - project
+        tags:
+          - current_proj
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
   # - block: markdown
   #   content:
-  #     title: '📚 My Research'
+  #     title: 'Research Focus'
   #     subtitle: ''
   #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  #       My research focuses on developing novel multi-agent autonomous systems that are: 
         
-  #       Please reach out to collaborate 😃
+  #       * Robust
+
+  #       * Resilient
+
+  #       * Safe
+        
+  #       * Intelligent
   #   design:
   #     columns: '1'
   # - block: collection

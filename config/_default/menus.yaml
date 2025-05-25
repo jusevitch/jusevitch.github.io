@@ -14,20 +14,20 @@ main:
     url: research_team/
     weight: 12
   - name: Papers
-    url: papers/
+    url: https://scholar.google.com/citations?user=JUKswVIAAAAJ&hl=en&oi=ao
     weight: 13
-  - name: Talks
-    url: /#talks
-    weight: 14
-  - name: News
-    url: /#news
-    weight: 15
+  # - name: Talks
+  #   url: /#talks
+  #   weight: 14
+  # - name: News
+  #   url: /#news
+  #   weight: 15
   - name: Projects
     url: projects/
     weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
+  # - name: Teaching
+  #   url: teaching/
+  #   weight: 40
   # - name: Experience
   #   url: experience/
   #   weight: 20

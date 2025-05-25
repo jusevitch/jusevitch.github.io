@@ -16,6 +16,8 @@ sections:
       filters:
         folders:
           - project
+        tags:
+          - current_proj
     design:
       view: article-grid
       fill_image: false
