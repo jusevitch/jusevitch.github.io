@@ -80,7 +80,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
-        tag: "Usevitch"
+        # tag: "Usevitch"
     design:
       view: citation
   - block: collection
