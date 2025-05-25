@@ -1,6 +1,6 @@
 ---
 title: Paper Accepted to ACC 2025
-summary: Our paper [_Safety for Time-Varying Parameterized Sets Using Control Barrier Function Methods_](https://arxiv.org/abs/2503.12003) was accepted to the 2025 American Control Conference in Denver, CO.
+summary: Our paper _Safety for Time-Varying Parameterized Sets Using Control Barrier Function Methods_ was accepted to the 2025 American Control Conference in Denver, CO.
 date: 2025-01-16
 
 # Featured image
@@ -14,6 +14,8 @@ authors:
 tags:
   - News
 ---
+
+Link to arXiv preprint: [arxiv.org/abs/2503.12003](https://arxiv.org/abs/2503.12003)
 
 <!-- Welcome 👋
 
