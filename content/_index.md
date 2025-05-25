@@ -23,14 +23,15 @@ sections:
       background:
         # color: blue
         color: white
-        # image:
-        #   # Add your image background to `assets/media/`.
-        #   filename: stacked-peaks.svg
-        #   filters:
-        #     brightness: 1.0
-        #   size: cover
-        #   position: center
-        #   parallax: false
+        image:
+          # Add your image background to `assets/media/`.
+          # filename: stacked-peaks.svg
+          filename: ''
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: collection
     content:
       title: Research
