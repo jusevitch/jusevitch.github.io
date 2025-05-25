@@ -25,21 +25,22 @@ sections:
     content:
       title: Current Students
       text: "
-        ## PhD
+        ### PhD
 
         * **David Akagi** (dcakagi@byu.edu)
-          * Thesis Title: TBD
-        * **Jamison Moody** (jmm1995@byu.edu)
-          * Thesis Title: TBD
+            * Thesis Title: TBD
 
-        ## Masters
+        * **Jamison Moody** (jmm1995@byu.edu)
+            * Thesis Title: TBD
+
+        ### Masters
 
         * **Derek Ward** (wderekb@byu.edu)
           * Thesis Title: TBD
         * **Jackson Sahleen** (jsahleen@byu.edu)
           * Thesis Title: TBD
 
-        ## Undergraduate
+        ### Undergraduate
 
         * **Juan Zurita** (juanzurita@byui.edu)
         * **Austin McGlashan** (amcglash@byu.edu)
@@ -56,7 +57,7 @@ sections:
     content:
       title: Alumni
       text: "
-        ## Undergraduate
+        ### Undergraduate
 
         * **Cameron Stoker** (May 2024 - December 2024)
         * **Tanner Osburn** (May 2024 - December 2024)"
