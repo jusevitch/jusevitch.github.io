@@ -1,8 +1,8 @@
 ---
 title: Dynamix - A Lightweight Differentiable Control Simulator
 show_date: false
-date: ''
-# date: 2024-05-01
+# date: ''
+date: 2024-05-01
 # external_link: https://rosflight.org/
 # tags:
   # - current_proj

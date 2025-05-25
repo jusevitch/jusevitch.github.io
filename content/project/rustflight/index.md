@@ -1,7 +1,7 @@
 ---
 title: ROSFlight
 show_date: false
-# date: 2024-09-01
+date: 2024-09-01
 # external_link: https://rosflight.org/
 # tags:
   # - current_proj
