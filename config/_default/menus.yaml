@@ -14,7 +14,7 @@ main:
     url: research_team/
     weight: 12
   - name: Papers
-    url: /#papers
+    url: papers/
     weight: 13
   - name: Talks
     url: /#talks
