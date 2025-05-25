@@ -1,5 +1,6 @@
 ---
 title: Safety for Multi-Agent Systems using Control Barrier Function Methods
+show_date: false
 # date: 2024-01-14
 # external_link: https://rosflight.org/
 # tags:

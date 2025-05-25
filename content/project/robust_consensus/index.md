@@ -1,5 +1,6 @@
 ---
 title: Robust and Resilient Multi-Agent Consensus and Broadcasting
+show_date: false
 # date: 2024-01-14
 # external_link: https://rosflight.org/
 # tags:
