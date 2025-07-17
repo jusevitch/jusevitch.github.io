@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/cv.pdf
+        url: https://byu-my.sharepoint.com/:b:/g/personal/jamesbu_byu_edu/EY4IADtTDPhCtDYvVyrrahsBU_qdVP8EQn-mqeH0pfg47Q?e=JMQhNN
     design:
       css_class: dark
       background:
